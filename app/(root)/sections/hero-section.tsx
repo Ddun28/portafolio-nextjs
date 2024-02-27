@@ -19,9 +19,7 @@ const HeroSection = () => {
           <div className="max-w-3xl">
             <h1 className="text-4xl text-white max-w-3xl mb-5">{`Hey, I'm Daniel - I'm a Web Developer`}</h1>
                 <p className="text-gray-500">
-                I am a seasoned product designer with 5 years of experience
-                specializing in SaaS solutions, crafting user-centric experiences
-                that drive innovation and efficiency.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum cum tempora natus, expedita non aliquid quia corporis, molestiae veritatis atque error earum unde porro iure! Vitae nihil et aliquam!
                 </p>
             </div>
             <div className="flex items-center gap-4">
