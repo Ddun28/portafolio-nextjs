@@ -16,7 +16,7 @@ const CardFeaturedWork = ({href, image, category, title}: CardFeaturedWorkProps)
             src={image} 
             alt="Image" 
             fill
-            className="object-cover rounded-xl group-hover:scale-110 transition-all duration-300"
+            className="object-fill rounded-xl group-hover:scale-110 transition-all duration-300"
             />
         </div>
        <Badge label={category}/>
